@@ -1,0 +1,19 @@
+<site>
+    <user name="Cannon">
+        <video title="Red star" views="1325642" likes="25361" comments="567"/>
+        <video title="Green ball" views="768944" likes="16598" comments="449"/>
+        <video title="Snegurochka" views="895551" likes="27254" comments="953"/>
+    </user>
+
+    <user name="Invader">
+        <video title="Santa" views="1678954" likes="50236" comments="1054"/>
+        <video title="Ded frost" views="1258947" likes="12567" comments="239"/>
+        <video title="Yellow star" views="568412" likes="7509" comments="307"/>
+    </user>
+
+    <user name="Defender">
+        <video title="Bullfinch" views="1875543" likes="30245" comments="3127"/>
+        <video title="Red rain" views="985624" likes="2004" comments="1025"/>
+        <video title="White ball" views="1856237" likes="45032" comments="3780"/>
+    </user>
+</site>
